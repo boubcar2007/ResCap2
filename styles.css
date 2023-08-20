@@ -1,0 +1,97 @@
+* {
+  margin: 20px 20px 0 20px;
+  
+ flex-direction: column; 
+}
+
+.name-intro {
+    color: black;
+  
+}
+.top{
+    display: flex;
+    background-color: #78C1F3;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile-img {
+    border-radius: 50%;
+    height: 300px;
+    padding-top: 0%;
+    margin: 0%;
+  }
+  .second {
+    display: flex;
+    padding-left:50px ;
+    padding-bottom: 0px;
+  
+  }
+  .me > h1 {
+ color: #241468;
+ margin-top: 5%;
+ margin-bottom: 3%;
+    
+  }
+  .coding > h3 {
+    text-align: center;
+    margin-bottom: 2%;
+    font-weight: bold;
+    color:#241468 ;
+    padding-top: 0%;
+    margin-top: 0%;
+
+  }
+  .workout > h3{
+    text-align: center;
+    color: #241468;
+
+  }
+  .contact-me  {
+    color: #241468;
+    display: flex;
+    text-align: center;
+
+  }
+  .me > img {
+   width: 300px;
+    height: 400%;
+    border: 0px;
+    margin: 0px;
+   }
+   .me > p {
+    margin-top: 2px;
+    padding: 30px;
+  }
+  .copyright > p{
+    display:flex ;
+    padding-top: 10%;
+    text-align: left;
+   
+
+  }
+  .coffee-cup{
+    width: 300px;
+    height: 400%;
+    border: 0px;
+    margin: 0px;
+    padding-bottom: 0%;
+    padding-top: 0%;
+  }
+  .gym{
+  display: flex;
+   float: left;
+  max-height: 400px;
+   max-width: 300px;
+    border: 0px;
+    margin: 0px;
+  }
+  .workout > p {
+    display: flex;
+  }
+  .contact-me > a {
+    display: flex;
+  }
+  .coffee-cup > p {
+    padding-bottom: 50px;
+  }
